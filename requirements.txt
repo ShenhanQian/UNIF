@@ -1,0 +1,13 @@
+setuptools
+Cython
+yacs>=0.1.8
+numpy>=1.22.1
+chumpy
+opencv-python
+scikit-image
+matplotlib
+torch
+pytorch3d
+tensorboard
+trimesh
+pyrender

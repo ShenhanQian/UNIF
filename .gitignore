@@ -1,0 +1,8 @@
+build/
+data/
+.vscode/
+output/
+__pycache__/
+*.egg-info/
+mise.cpp
+mise.*.so
