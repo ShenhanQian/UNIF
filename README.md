@@ -148,10 +148,12 @@ sudo apt install libosmesa6-dev freeglut3-dev
 ## Cite
 
 ```
-@inproceedings{qian2022_unif,
+@inproceedings{qian2022unif,
   title={UNIF: United Neural Implicit Functions for Clothed Human Reconstruction and Animation},
-  author={Qian, Shenhan and Xu, Jiale and Liu, Ziwei and Ma, Liqian and Gao, Shenghua}
-  booktitle={European Conference on Computer Vision (ECCV)},
-  year={2022}
+  author={Qian, Shenhan and Xu, Jiale and Liu, Ziwei and Ma, Liqian and Gao, Shenghua},
+  booktitle={European Conference on Computer Vision},
+  pages={121--137},
+  year={2022},
+  organization={Springer}
 }
 ```
