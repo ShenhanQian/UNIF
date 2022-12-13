@@ -6,6 +6,8 @@
 
 ![teaser](teaser.jpg)
 
+Checkpoints and logs can be downloaded [here](https://shanghaitecheducn-my.sharepoint.com/:f:/g/personal/qianshh_shanghaitech_edu_cn/EttsABBO8jFNqDucxlcyE_wB6XkaYZ6Xt5OMYOGaJjVxWA?e=2vMhxD).
+
 ## Installation
 
 ### 1. Install PyTorch, CUDA runtime in a conda environment
