@@ -2,7 +2,7 @@
 
 [ECCV-2022] The official repo for the  paper "UNIF: United Neural Implicit Functions for Clothed Human Reconstruction and Animation".
 
-[project](https://shenhanqian.com/unif) / [arxiv](https://arxiv.org/abs/2207.09835) / [video](https://shenhanqian.com/unif) / [poster](http://127.0.0.1:4000/assets/2022-07-18-unif/poster.pdf)
+[project](https://shenhanqian.github.io/unif) / [arxiv](https://arxiv.org/abs/2207.09835) / [video](https://shenhanqian.com/unif) / [poster](http://127.0.0.1:4000/assets/2022-07-18-unif/poster.pdf)
 
 ![teaser](teaser.jpg)
 
