@@ -4,6 +4,8 @@
 
 [project](https://shenhanqian.github.io/unif) / [arxiv](https://arxiv.org/abs/2207.09835) / [video](https://shenhanqian.com/unif) / [poster](http://127.0.0.1:4000/assets/2022-07-18-unif/poster.pdf)
 
+sponsored by [imgcreator.zmo.ai](https://imgcreator.zmo.ai)
+
 ![teaser](teaser.jpg)
 
 Checkpoints and logs can be downloaded [here](https://shanghaitecheducn-my.sharepoint.com/:f:/g/personal/qianshh_shanghaitech_edu_cn/EttsABBO8jFNqDucxlcyE_wB6XkaYZ6Xt5OMYOGaJjVxWA?e=2vMhxD).
